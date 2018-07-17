@@ -10,4 +10,4 @@
 
 # Part 2 
 
-###Update your code from the previous exercise to add the chat messages to the messages elements via a document fragment.
+### Update your code from the previous exercise to add the chat messages to the messages elements via a document fragment.
